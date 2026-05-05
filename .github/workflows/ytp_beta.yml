@@ -46,9 +46,9 @@ on:
         type: string
 
       tweak_url:
-        description: "URL to the YouTube Plus tweak file"
+        description: "(Unused) The tweak is now built from this repo's source — leave blank"
         default: ""
-        required: true
+        required: false
         type: string
 
       display_name:

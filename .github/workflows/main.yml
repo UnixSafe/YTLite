@@ -46,7 +46,7 @@ on:
         type: string
 
       tweak_version:
-        description: "The version of the tweak to use. Enter the version manually from dayanch96/YTLite/releases or leave default"
+        description: "Version label used in the release name (the tweak is now built from this repo's source — no Patreon subscription required)"
         default: "5.2.1"
         required: true
         type: string
